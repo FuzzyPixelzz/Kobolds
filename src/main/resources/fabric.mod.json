@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "kobolds",
+  "version": "${version}",
+  "name": "Kobolds",
+  "description": "Tiny Lizards!",
+  "authors": [
+    "Jusey1"
+  ],
+  "license": "MIT",
+  "icon": "logo.png",
+  "depends": {
+    "minecraft": ">=1.21.2",
+    "fabricloader": ">=0.16.10",
+    "java": ">=21"
+  }
+}
